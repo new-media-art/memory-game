@@ -12,9 +12,10 @@
  .flex-container {
   display: -webkit-flex;
   display: flex;
-  width: 800px;
+  width: 700px;
   height: 800px;
   background-color: rgb(74, 51, 142);
+  
 }
 
 .flex-item {
@@ -23,5 +24,12 @@
 
 body {
   margin: 5%;
+  font-family: "Sofia", sans-serif;
+  color:beige;
+  background: black;
+}
+
+h1 {
+  font-size: 3rem;;
 }
 
